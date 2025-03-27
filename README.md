@@ -4,3 +4,4 @@ you can run the c progrm or you can run the exe file. The details are not saved 
 # store medicine details
 add medicine 
 remove medical 
+check the stock of medicine 
