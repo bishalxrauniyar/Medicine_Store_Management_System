@@ -8,3 +8,4 @@ check the stock of medicine
 add medicine details
 generate the bill
 cui based 
+gui coming soon
