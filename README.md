@@ -9,3 +9,5 @@ add medicine details
 generate the bill
 cui based 
 gui coming soon
+
+run the exe file after compiling the program to open the cui application 
