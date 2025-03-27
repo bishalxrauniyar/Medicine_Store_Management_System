@@ -6,3 +6,4 @@ add medicine
 remove medical 
 check the stock of medicine 
 add medicine details
+generate the bill
