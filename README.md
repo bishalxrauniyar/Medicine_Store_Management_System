@@ -5,3 +5,4 @@ you can run the c progrm or you can run the exe file. The details are not saved 
 add medicine 
 remove medical 
 check the stock of medicine 
+add medicine details
